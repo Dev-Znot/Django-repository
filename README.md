@@ -5,8 +5,6 @@ A repository with all projects organized.
 ## Table of Contents
 
 - [About](#about)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
 
 ## About
 
