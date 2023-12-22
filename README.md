@@ -1,6 +1,6 @@
-# General projects
+# Welcome to my Repository
 
-A repository with all projects organized.
+This is my singular repository, containing my projects in the most varied languages
 
 ## Table of Contents
 
