@@ -12,7 +12,7 @@ Este é meu repositorio que representa toda minha linha de aprendizado com o Dja
 
 ### Sobre
 
-. Cada pasta é devidamente separada e organizada em relação ao tema estudado.
+Cada pasta é devidamente separada e organizada em relação ao tema estudado.
 
 ## Projetos
 
