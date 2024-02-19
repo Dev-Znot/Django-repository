@@ -1,6 +1,7 @@
 # Bem vindo ao meu repositorio Django
+---
 
-Este é meu repositorio que representa toda minha linha de aprendizado com o Django.
+Repositorio que representa toda minha linha de aprendizado com o Django.
 
 ### Indice
 - [django session](#djangosession)
